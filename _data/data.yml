@@ -10,7 +10,7 @@ sidebar:
     # Profile information
     name: Ferran Latorre Rebollar
     tagline: Estudiante de grado superior de informática
-    avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
+    avatar: image.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
     email: ferranlatorre6@gmail.com
